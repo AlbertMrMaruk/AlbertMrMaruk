@@ -1,7 +1,7 @@
 ### Привет 👋
 
-####Меня зовут Альберт
-####Сейчас в активном поиске работы в сфере Frontend разработки
+#### Меня зовут Альберт
+#### Сейчас в активном поиске работы в сфере Frontend разработки
 
 ---
 #### Мой стек:
@@ -28,9 +28,9 @@
 
 #### Мои проекты:
 
-[![Web-Messenger](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Web-Messenger)
-[![House-marketplace](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/House-marketplace)
-[![Flappy-bird](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Flappy-bird)
+[![Web-Messenger](https://img.shields.io/badge/-Web_Messenger-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Web-Messenger)
+[![House-marketplace](https://img.shields.io/badge/-House_marketplace-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/House-marketplace)
+[![Flappy-bird](https://img.shields.io/badge/-Flappy_bird-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Flappy-bird)
 
 
 #### Мои контакты:
