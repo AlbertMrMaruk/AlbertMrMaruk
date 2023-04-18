@@ -1,7 +1,7 @@
 ### Привет 👋
 
-Меня зовут Альберт
-Сейчас в активном поиске работы в сфере Frontend разработки
+####Меня зовут Альберт
+####Сейчас в активном поиске работы в сфере Frontend разработки
 
 ---
 #### Мой стек:
@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
