@@ -34,10 +34,10 @@
 
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/a_marukyan)
-[![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:albert@qbitm.ru)
+[![Gmail](https://img.shields.io/badge/-albert@qbitm.ru-141130?style=for-the-badge&logo=Gmail)](mailto:albert@qbitm.ru)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurovdigital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMrMaruk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ---
