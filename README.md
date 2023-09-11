@@ -27,10 +27,12 @@
 ---
 
 #### Мои проекты:
-
+[![Unic-Tracker](https://img.shields.io/badge/-Flappy_bird-141130?style=for-the-badge)]([https://github.com/AlbertMrMaruk/Flappy-bird](https://github.com/AlbertMrMaruk/Unic-Tracker-App))
 [![Web-Messenger](https://img.shields.io/badge/-Web_Messenger-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Web-Messenger)
 [![House-marketplace](https://img.shields.io/badge/-House_marketplace-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/House-marketplace)
 [![Flappy-bird](https://img.shields.io/badge/-Flappy_bird-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Flappy-bird)
+[![Unic-Tracker](https://img.shields.io/badge/-Unic_tracker-141130?style=for-the-badge)](https://github.com/AlbertMrMaruk/Unic-Tracker-App)
+
 
 
 #### Мои контакты:
